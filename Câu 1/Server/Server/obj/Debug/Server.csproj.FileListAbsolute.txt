@@ -1,0 +1,7 @@
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\bin\Debug\Server.exe.config
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\bin\Debug\Server.exe
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\bin\Debug\Server.pdb
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\obj\Debug\Server.exe
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Server\Server\obj\Debug\Server.pdb

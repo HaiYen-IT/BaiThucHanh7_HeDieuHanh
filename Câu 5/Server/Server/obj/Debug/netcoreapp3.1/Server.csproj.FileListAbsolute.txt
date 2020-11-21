@@ -1,0 +1,12 @@
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 5\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

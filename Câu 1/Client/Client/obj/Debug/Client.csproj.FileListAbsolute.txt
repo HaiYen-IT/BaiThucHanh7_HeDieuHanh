@@ -1,0 +1,7 @@
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\bin\Debug\Client.exe.config
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\bin\Debug\Client.exe
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\bin\Debug\Client.pdb
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\obj\Debug\Client.exe
+D:\Thực hành HĐH\Bài thực hành 4_SOCKET_Part2\Câu 1\Client\Client\obj\Debug\Client.pdb
